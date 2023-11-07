@@ -10,5 +10,9 @@
   {
     "package": "tsvio",
     "url": "https://github.com/MD-Anderson-Bioinformatics/tsvio"
+  },
+  {
+    "package": "rppaspace",
+    "url": "https://github.com/MD-Anderson-Bioinformatics/rppaspace"
   }
 ]
