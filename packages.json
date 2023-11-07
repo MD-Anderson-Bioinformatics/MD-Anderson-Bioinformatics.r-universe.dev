@@ -13,6 +13,7 @@
   },
   {
     "package": "rppaspace",
-    "url": "https://github.com/MD-Anderson-Bioinformatics/rppaspace"
+    "url": "https://github.com/MD-Anderson-Bioinformatics/rppaspace",
+    "subdir": "RPPASPACE"
   }
 ]
