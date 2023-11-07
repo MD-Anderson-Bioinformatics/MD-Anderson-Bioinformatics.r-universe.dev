@@ -6,5 +6,9 @@
   {
     "package": "NGCHMDemoData",
     "url": "https://github.com/MD-Anderson-Bioinformatics/NGCHMDemoData"
+  },
+  {
+    "package": "tsvio",
+    "url": "https://github.com/MD-Anderson-Bioinformatics/tsvio"
   }
 ]
