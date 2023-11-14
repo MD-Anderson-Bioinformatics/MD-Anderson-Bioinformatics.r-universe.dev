@@ -8,6 +8,10 @@
     "url": "https://github.com/MD-Anderson-Bioinformatics/NGCHMDemoData"
   },
   {
+    "package": "NGCHM",
+    "url": "https://github.com/MD-Anderson-Bioinformatics/NGCHM-R"
+  },
+  {
     "package": "tsvio",
     "url": "https://github.com/MD-Anderson-Bioinformatics/tsvio"
   },
